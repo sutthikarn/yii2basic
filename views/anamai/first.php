@@ -1,6 +1,6 @@
 <?php
 
-echo 'แสดงผลคูณ จากฟอร์ม Controller = '.$title;
+echo 'แสดงผลคูณ Controller = '.$title;
     
 echo '<hr>';
 
